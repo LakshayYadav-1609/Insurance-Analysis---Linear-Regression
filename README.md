@@ -60,4 +60,4 @@ python Linear_Regression.py
 
 ✨ Author
 Lalit Yadav  
-GitHub: https://github.com/LakshayYadav-1609 (github.com in Bing)
+GitHub: https://github.com/LakshayYadav-1609
