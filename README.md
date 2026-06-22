@@ -1,4 +1,4 @@
-📊 Insurance Charges Analysis — Linear Regression Model
+📊 Insurance Charges Analysis-— Linear Regression Model
 This project analyzes an insurance dataset and builds a Multiple Linear Regression model to predict medical insurance charges based on customer attributes such as age, BMI, number of children, salary, hospital history, and lifestyle factors.
 
 GitHub sometimes fails to render large Jupyter notebooks.  
